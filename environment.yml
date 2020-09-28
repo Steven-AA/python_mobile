@@ -1,0 +1,9 @@
+dependencies:
+  - python=3.8
+  - pip:
+    - ipykernel
+    - scipy
+    - numpy
+    - matplotlib
+    - pandas
+    - thinc
